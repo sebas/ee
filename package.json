@@ -1,0 +1,25 @@
+{
+  "name": "ee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebas/ee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebas/ee/issues"
+  },
+  "homepage": "https://github.com/sebas/ee#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lru-cache": "^4.1.3"
+  }
+}
